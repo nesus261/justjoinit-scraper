@@ -19,7 +19,7 @@ class MessageGenerator:
         workplace_type = offer.get('workplaceType')
         working_time = offer.get('workingTime')
         experience_level = offer.get('experienceLevel')
-        remote_interview = 'tak' if offer.get('remoteInterview') else 'nie'
+        remote_interview = self.dictionary.yes() if offer.get('remoteInterview') else self.dictionary.no()
         employment_types = json.dumps(
             offer.get('employmentTypes'), 
             ensure_ascii=False, 
