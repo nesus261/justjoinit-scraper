@@ -6,8 +6,8 @@ Justjoinit-scraper is a simple Python program used to search for new job offers 
 
 ## How to run? 
 
-Install git: https://git-scm.com/downloads
-Install python and pip: https://www.python.org/downloads/
+Install git: https://git-scm.com/downloads  
+Install python and pip: https://www.python.org/downloads/  
 Run the commands below:
 ```sh
 git clone https://github.com/nesus261/justjoinit-scraper.git
