@@ -15,7 +15,7 @@ class MessageGenerator:
             ensure_ascii=False, 
             indent=4
         )
-        link = f'https://justjoin.it/job-offer/{offer.get('slug')}'
+        link = f'https://justjoin.it/job-offer/{offer.get("slug")}'
         workplace_type = offer.get('workplaceType')
         working_time = offer.get('workingTime')
         experience_level = offer.get('experienceLevel')
