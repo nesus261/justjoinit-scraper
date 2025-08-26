@@ -1,0 +1,16 @@
+# pliki tymczasowe
+__pycache__/
+*.pyc
+*.pyo
+
+# wirtualne środowisko
+venv/
+
+# logi
+*.log
+
+# ustawienia IDE
+.vscode/
+.idea/
+
+.env

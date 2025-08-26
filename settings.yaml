@@ -1,0 +1,16 @@
+language: pl # en or pl
+frequency_of_checking_in_seconds: 1800
+email_service:
+  smtp_server: smtp.gmail.com
+  smtp_port: 587
+  sender_email: !ENV ${EMAIL_SENDER}
+  password: !ENV ${EMAIL_PASSWORD}
+  receiver_email: !ENV ${EMAIL_RECEIVER}
+search_criteria_list: 
+  - remoteWorkOptions[]: 
+    - remote
+    sortBy: published
+    employmentTypes[]: 
+    - internship
+    experienceLevels[]:
+    - junior

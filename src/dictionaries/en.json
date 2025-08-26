@@ -1,0 +1,18 @@
+{
+    "job_offer": "Job offer",
+    "offer": "Offer",
+    "company": "Company",
+    "url": "Url",
+    "working_mode": "Working mode",
+    "working_time": "Working time",
+    "experience_level": "Experience level",
+    "remote_interview": "Remote interview", 
+    "location": "Location", 
+    "required_skills": "Required skills", 
+    "nice_to_have_skills": "Nice-to-have skills", 
+    "languages": "Languages", 
+    "earnings": "Earnings", 
+    "multilocation": "Many locations", 
+    "yes": "yes", 
+    "no": "no"
+}

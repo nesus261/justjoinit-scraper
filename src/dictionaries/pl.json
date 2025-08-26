@@ -1,0 +1,18 @@
+{
+    "job_offer": "Oferta pracy", 
+    "offer": "Oferta", 
+    "company": "Firma", 
+    "url": "Link", 
+    "working_mode": "Tryb pracy", 
+    "working_time": "Wymiar pracy", 
+    "experience_level": "Poziom doświadczenia", 
+    "remote_interview": "Zdalna rekrutacja", 
+    "location": "Lokalizacja", 
+    "required_skills": "Wymagane umiejętności", 
+    "nice_to_have_skills": "Umiejętności, które warto mieć", 
+    "languages": "Języki", 
+    "earnings": "Zarobki", 
+    "multilocation": "Wiele lokalizacji", 
+    "yes": "tak", 
+    "no": "nie"
+}
